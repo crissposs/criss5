@@ -1,0 +1,42 @@
+{
+  "name": "sumireko_usami_bot",
+  "version": "1.1.4",
+  "description": "Bot desarrollado por Sr. Courtesy(CX) from Boxmine_World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "web": "cd web && npm start",
+    "bot:girl": "ENABLE_GIRLSONLY=1 ADMIN_CHAT_ID=7823152233 node index.js",
+    "up": "(cd web && npm start) & ENABLE_GIRLSONLY=1 ADMIN_CHAT_ID=7823152233 node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yukyshiram/Sumireko_Usami_Bot.git"
+  },
+  "keywords": [
+    "Bot",
+    "Telegram",
+    "NodeJS",
+    "Boxmine"
+  ],
+  "author": "Im_JVallejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yukyshiram/Sumireko_Usami_Bot/issues"
+  },
+  "homepage": "https://github.com/Yukyshiram/Sumireko_Usami_Bot#readme",
+  "dependencies": {
+    "akaneko": "^5.2.8",
+    "anime-character-random": "^1.0.14",
+    "chalk": "^4.1.2",
+    "consola": "^3.2.3",
+    "dotenv": "^16.3.1",
+    "hispamemes": "^1.0.7",
+    "langdetect": "^0.2.1",
+    "telegraf": "^4.12.2",
+    "translate-google": "^1.5.0",
+    "wikipedia": "^2.1.0",
+    "ytdl-core": "^4.11.4"
+  }
+}

@@ -1,0 +1,163 @@
+const PERU_CITY_DISTRICTS = [
+    {
+        name: "Lima",
+        districts: [
+            "Lima",
+            "Ancón",
+            "Ate",
+            "Barranco",
+            "Breña",
+            "Carabayllo",
+            "Chaclacayo",
+            "Chorrillos",
+            "Cieneguilla",
+            "Comas",
+            "El Agustino",
+            "Independencia",
+            "Jesús María",
+            "La Molina",
+            "La Victoria",
+            "Lince",
+            "Los Olivos",
+            "Lurigancho (Chosica)",
+            "Lurín",
+            "Magdalena del Mar",
+            "Miraflores",
+            "Pachacámac",
+            "Pucusana",
+            "Pueblo Libre",
+            "Puente Piedra",
+            "Punta Hermosa",
+            "Punta Negra",
+            "Rímac",
+            "San Bartolo",
+            "San Borja",
+            "San Isidro",
+            "San Juan de Lurigancho",
+            "San Juan de Miraflores",
+            "San Luis",
+            "San Martín de Porres",
+            "San Miguel",
+            "Santa Anita",
+            "Santa María del Mar",
+            "Santa Rosa",
+            "Santiago de Surco",
+            "Surquillo",
+            "Villa El Salvador",
+            "Villa María del Triunfo",
+            "Cercado de Lima"
+        ]
+    },
+    {
+        name: "Cajamarca",
+        districts: [
+            "Cajabamba",
+            "Cajamarca",
+            "Celendín",
+            "Chota",
+            "Contumazá",
+            "Cutervo",
+            "Hualgayoc",
+            "Jaén",
+            "San Ignacio",
+            "San Marcos",
+            "San Miguel",
+            "San Pablo",
+            "Santa Cruz",
+            "Asunción",
+            "Baños del Inca",
+            "Chetilla",
+            "Cospán",
+            "Encañada",
+            "Jesús",
+            "Llacanora",
+            "Magdalena",
+            "Matara",
+            "Namora",
+            "San Juan"
+        ]
+    },
+    {
+        name: "Arequipa",
+        districts: [
+            "Arequipa",
+            "Alto Selva Alegre",
+            "Cayma",
+            "Cerro Colorado",
+            "Characato",
+            "Chiguata",
+            "Jacobo Hunter",
+            "José Luis Bustamante y Rivero",
+            "Mariano Melgar",
+            "Miraflores",
+            "Paucarpata",
+            "Sabandía",
+            "Sachaca",
+            "Socabaya",
+            "Tiabaya",
+            "Uchumayo",
+            "Yanahuara",
+            "Yura"
+        ]
+    },
+    {
+        name: "Huancayo",
+        districts: [
+            "Huancayo",
+            "El Tambo",
+            "Chilca",
+            "Huancán",
+            "Sapallanga",
+            "Sicaya",
+            "Pilcomayo",
+            "Huayucachi",
+            "Chupuro",
+            "Hualhuas",
+            "Quilcas",
+            "San Agustín",
+            "San Jerónimo de Tunán"
+        ]
+    },
+    {
+        name: "Trujillo",
+        districts: [
+            "Trujillo",
+            "El Porvenir",
+            "Florencia de Mora",
+            "Huanchaco",
+            "La Esperanza",
+            "Laredo",
+            "Moche",
+            "Poroto",
+            "Salaverry",
+            "Simbal",
+            "Víctor Larco Herrera"
+        ]
+    },
+    {
+        name: "Chiclayo",
+        districts: [
+            "Chiclayo",
+            "Chongoyape",
+            "Eten",
+            "Eten Puerto",
+            "José Leonardo Ortiz",
+            "La Victoria",
+            "Lagunas",
+            "Monsefú",
+            "Nueva Arica",
+            "Oyotún",
+            "Pátapo",
+            "Picsi",
+            "Pimentel",
+            "Reque",
+            "Santa Rosa",
+            "Saña",
+            "Tumán"
+        ]
+    }
+];
+
+module.exports = {
+    PERU_CITY_DISTRICTS
+};
