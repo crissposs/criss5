@@ -1,0 +1,194 @@
+{
+  "cities": [
+    {
+      "id": "lima",
+      "name": "Lima",
+      "provinces": [
+        {
+          "id": "miraflores",
+          "name": "Miraflores"
+        },
+        {
+          "id": "callao",
+          "name": "Callao"
+        },
+        {
+          "id": "ate",
+          "name": "Ate"
+        },
+        {
+          "id": "barranco",
+          "name": "Barranco"
+        },
+        {
+          "id": "brena",
+          "name": "Breña"
+        },
+        {
+          "id": "chorrillos",
+          "name": "Chorrillos"
+        },
+        {
+          "id": "comas",
+          "name": "Comas"
+        },
+        {
+          "id": "el-agustino",
+          "name": "El Agustino"
+        },
+        {
+          "id": "independencia",
+          "name": "Independencia"
+        },
+        {
+          "id": "jesus-maria",
+          "name": "Jesús María"
+        },
+        {
+          "id": "la-molina",
+          "name": "La Molina"
+        },
+        {
+          "id": "la-victoria",
+          "name": "La Victoria"
+        },
+        {
+          "id": "lince",
+          "name": "Lince"
+        },
+        {
+          "id": "los-olivos",
+          "name": "Los Olivos"
+        },
+        {
+          "id": "magdalena-del-mar",
+          "name": "Magdalena del Mar"
+        },
+        {
+          "id": "pueblo-libre",
+          "name": "Pueblo Libre"
+        },
+        {
+          "id": "puente-piedra",
+          "name": "Puente Piedra"
+        },
+        {
+          "id": "rimac",
+          "name": "Rímac"
+        },
+        {
+          "id": "san-borja",
+          "name": "San Borja"
+        },
+        {
+          "id": "san-isidro",
+          "name": "San Isidro"
+        },
+        {
+          "id": "san-juan-de-lurigancho",
+          "name": "San Juan de Lurigancho"
+        },
+        {
+          "id": "san-juan-de-miraflores",
+          "name": "San Juan de Miraflores"
+        },
+        {
+          "id": "san-luis",
+          "name": "San Luis"
+        },
+        {
+          "id": "san-martin-de-porres",
+          "name": "San Martín de Porres"
+        },
+        {
+          "id": "san-miguel",
+          "name": "San Miguel"
+        },
+        {
+          "id": "santa-anita",
+          "name": "Santa Anita"
+        },
+        {
+          "id": "santiago-de-surco",
+          "name": "Santiago de Surco"
+        },
+        {
+          "id": "surquillo",
+          "name": "Surquillo"
+        },
+        {
+          "id": "villa-el-salvador",
+          "name": "Villa El Salvador"
+        },
+        {
+          "id": "villa-maria-del-triunfo",
+          "name": "Villa María del Triunfo"
+        },
+        {
+          "id": "ancon",
+          "name": "Ancón"
+        },
+        {
+          "id": "carabayllo",
+          "name": "Carabayllo"
+        },
+        {
+          "id": "chaclacayo",
+          "name": "Chaclacayo"
+        },
+        {
+          "id": "cieneguilla",
+          "name": "Cieneguilla"
+        },
+        {
+          "id": "chosica",
+          "name": "Chosica"
+        },
+        {
+          "id": "lurin",
+          "name": "Lurín"
+        },
+        {
+          "id": "pachacamac",
+          "name": "Pachacámac"
+        },
+        {
+          "id": "pucusana",
+          "name": "Pucusana"
+        },
+        {
+          "id": "punta-hermosa",
+          "name": "Punta Hermosa"
+        },
+        {
+          "id": "punta-negra",
+          "name": "Punta Negra"
+        },
+        {
+          "id": "san-bartolo",
+          "name": "San Bartolo"
+        },
+        {
+          "id": "santa-maria-del-mar",
+          "name": "Santa María del Mar"
+        },
+        {
+          "id": "santa-rosa",
+          "name": "Santa Rosa"
+        },
+        {
+          "id": "lima",
+          "name": "Lima"
+        },
+        {
+          "id": "lurigancho-chosica",
+          "name": "Lurigancho (Chosica)"
+        },
+        {
+          "id": "cercado-de-lima",
+          "name": "Cercado de Lima"
+        }
+      ]
+    }
+  ]
+}
